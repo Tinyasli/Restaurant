@@ -82,6 +82,7 @@ public class Restaurant {
 		for (Chef chef : chefs) {
 			System.out.println(" - Name : " + chef.getName());
 		}
+		System.out.println("+-------------------------------------+");
 		System.out.println("");
 	}
 	
